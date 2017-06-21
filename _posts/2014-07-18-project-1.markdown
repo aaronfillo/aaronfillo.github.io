@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
+modal-id: Title
 date: 2014-07-18
 img: thesis.png
 alt: image-alt
 project-date: December 2016
 #client: Start Bootstrap
 #category: Web Development
-description: <a href="http://hdl.handle.net/1957/60072">Access Full Text</a>
+description: <a href="http://hdl.handle.net/1957/60072">Access Full Text Here</a>
 
 ---
