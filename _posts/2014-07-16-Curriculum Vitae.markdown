@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: <p><a href="#" class="btn btn-success btn-lg"><i class="fa fa-download"></i> Download Full CV</a></p><p><a href="#" class="btn btn-success btn-lg"><i class="fa fa-download"></i> Download Short Form Resume</a></p>
+description: <p><a href="Aaron_Jesse_Fillo_CV.pdf" class="btn btn-success btn-lg"><i class="fa fa-download"></i> Download Full CV</a></p><p><a href="#" class="btn btn-success btn-lg"><i class="fa fa-download"></i> Download Short Form Resume</a></p>
 
 ---
