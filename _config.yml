@@ -31,9 +31,9 @@ color:
 # Footer settings
 footer:
   copyright: Aaron Fillo
-  location: Eugene, OR
+  location: Corvallis, OR
   social: # @MostlyEnginerd
-  credits: Designed and build by A.J. Fillo
+  credits: Designed and built by A.J. Fillo
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -48,8 +48,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line:
-  - line: 
+  - line: 204 Rogers Hall
+  - line: Oregon State Univeristy
+  - line: Corvallis, OR 97331
 
 # Credits content
 credits: 'This site is based on Freelancer, a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
