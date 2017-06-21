@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <h4>Video Series</h4><p>LIB LAB, short for Library Laboratory, is a fun, educational video series Created, writen, Directed, and Hosted by AJ Fillo and produced in partnership by the Corvallis-Benton County Public Library. Each episode explores a variety of scientific fundamentals with playful experiments and demonstrations. The videos live online, enabling audiences from around the world to participate in the experiments.</p><h4>Experiments</h4><p>Each video will also include directions for a related experiment, designed by AJ, that young viewers can conduct at home.  Residents of Benton County can stop by the Youth reference desk at the Corvallis branch to pick up experiment materials, while supplies last!</p><h5><a href="https://cbcpubliclibrary.net/Liblab/">Get More Info About the Projet</a></h5><h5><a href="https://www.youtube.com/channel/UCQvOIwhriBXNMaxXgLl4PPA">Check out Lib Lab on YouTube</a></h5>
 
 ---
