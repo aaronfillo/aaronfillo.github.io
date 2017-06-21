@@ -6,7 +6,7 @@ description: "Personal site for A.J. Fillo, Oregon State University Ph.D. Candid
 skills: "Mechanical Engineer - Researcher - Educator"
 meta_author: Fillo Aaron
 # Google webmaster tools
-google_verify:
+google_verify: googlecbb84e039baf081d.html
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
